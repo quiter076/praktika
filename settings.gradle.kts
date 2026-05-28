@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "praktika"
+rootProject.name = "dostaffkin"
 include(":app")
